@@ -1,0 +1,14 @@
+{
+    "name": "Studio Bem Garota — Painel",
+    "short_name": "Painel Bem Garota",
+    "description": "Sua agenda, clientes, pedidos e recadinhos — direto no celular.",
+    "start_url": "./login.php",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#F6EDE4",
+    "theme_color": "#F6EDE4",
+    "icons": [
+        { "src": "../img/icone-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "../img/icone-512.png", "sizes": "512x512", "type": "image/png" }
+    ]
+}
